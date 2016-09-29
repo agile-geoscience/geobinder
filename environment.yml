@@ -6,10 +6,7 @@ dependencies:
 - matplotlib
 - scipy
 - jupyter
-- sympy
 - obspy
 - pip:
-  - tqdm
-  - namedlist
-  - lasio
+  - welly
   - bruges
