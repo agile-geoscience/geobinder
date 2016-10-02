@@ -8,5 +8,5 @@ dependencies:
 - jupyter
 - obspy
 - pip:
-  - welly
   - bruges
+  - welly
