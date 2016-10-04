@@ -9,4 +9,3 @@ dependencies:
 - obspy
 - pip:
   - bruges
-  - welly
